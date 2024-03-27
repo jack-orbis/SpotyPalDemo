@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidDemo</string>
+    <string name="scan">Scan</string>
+    <string name="connect">Connection status : Disconnected</string>
+    <string name="battery">Battery</string>
+    <string name="click">Click</string>
+    <string name="sleep">Sleep</string>
+    <string name="location_permission">"Location \n Permission"</string>
+    <string name="bluetooth_permission">"Bluetooth \n Permission"</string>
+    <string name="title_location_permission"> Please allow app to access your location</string>
+    <string name="text_location_permission">App need location access in order to scan for Ble peripherals</string>
+    <string name="confirm">OK</string>
+    <string name="separation">Separation</string>
+    <string name="ring">Ring</string>
+</resources>
